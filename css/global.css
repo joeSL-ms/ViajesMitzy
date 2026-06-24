@@ -8,3 +8,9 @@
   padding: 0;
   font-family: "MiFuente", serif;
 }
+
+body {
+  font-family: "Playfair Display", serif;
+  min-height: 100vh;
+  background: url("/imagenes/fondo3.jpg") center center/cover no-repeat;
+}
