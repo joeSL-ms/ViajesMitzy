@@ -1,6 +1,6 @@
 @font-face {
   font-family: "MiFuente";
-  src: url("/ViajesMitzy/fonts/Arapey/Arapey-Regular.ttf") format("truetype");
+  src: url("/../fonts/Arapey/Arapey-Regular.ttf") format("truetype");
 }
 
 * {
