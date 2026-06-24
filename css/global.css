@@ -1,6 +1,6 @@
 @font-face {
   font-family: "MiFuente";
-  src: url("./fonts/Arapey/Arapey-Regular.ttf") format("truetype");
+  src: url("/ViajesMitzy/fonts/Arapey/Arapey-Regular.ttf") format("truetype");
 }
 
 * {
@@ -12,5 +12,5 @@
 body {
   font-family: "Playfair Display", serif;
   min-height: 100vh;
-  background: url("/imagenes/fondo3.jpg") center center/cover no-repeat;
+  background: url("/ViajesMitzy/imagenes/fondo3.jpg") center center/cover no-repeat;
 }
