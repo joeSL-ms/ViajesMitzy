@@ -1,7 +1,7 @@
 body {
   font-family: "Playfair Display", serif;
   min-height: 100vh;
-  background: url("/imagenes/fondo3.jpg") center center/cover no-repeat;
+  background: url("../imagenes/fondo3.jpg") center center/cover no-repeat;
 }
 .overlay {
   min-height: 100vh;
